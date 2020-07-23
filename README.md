@@ -10,13 +10,13 @@
 [![GitHub Toni Sanchez](https://img.shields.io/github/followers/tonisg91?label=follow&style=social)](https://github.com/Tonisg91)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const toni = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS ],
-  tools: [MongoDB, ExpressJs, NodeJS MongoDB],
+  tools: [MongoDB, ExpressJs, NodeJS, MongoDB],
   challenge: "I am doing FullStack Web Development Bootcamp at Ironhack Barcelona"
 }
 ```
