@@ -5,6 +5,10 @@
   I'm a Full Stack Web Developer
 </em></p>
 
+<p>
+  Currently, I'm #opentowork
+</p>
+
 
 [![Linkedin: Toni Sanchez](https://img.shields.io/badge/-ToniSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toni-sanchez-garcia/)](https://www.linkedin.com/in/toni-sanchez-garcia/)
 [![GitHub Toni Sanchez](https://img.shields.io/github/followers/tonisg91?label=follow&style=social)](https://github.com/Tonisg91)
