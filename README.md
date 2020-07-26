@@ -20,7 +20,7 @@
 const toni = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS ],
-  tools: [MongoDB, ExpressJs, NodeJS, MongoDB],
+  tools: [MongoDB, ExpressJs, NodeJS, MongoDB, Bootstrap, SASS],
   challenge: "I am doing FullStack Web Development Bootcamp at Ironhack Barcelona"
 }
 ```
