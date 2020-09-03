@@ -25,5 +25,3 @@ const toni = {
 }
 ```
 ---
-
-⭐️ From [@Tonisg91](https://github.com/Tonisg91)
