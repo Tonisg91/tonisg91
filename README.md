@@ -24,7 +24,7 @@ const toni = {
     backend: [MongoDB, ExpressJs, NodeJS],
     frontend: [React, Redux, Styled-Components, Bootstrap, SASS]
     },
-  learning: 'ReactNative'
+  learning: "ReactNative"
   challenge: "Currently, I'm learning React Native"
 }
 ```
