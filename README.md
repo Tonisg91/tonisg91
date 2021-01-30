@@ -25,7 +25,7 @@ const toni = {
     frontend: [React, Redux, Styled-Components, Bootstrap, SASS]
     },
   learning: "Improving my skills as a fullstack. Especially on the backend.",
-   wouldLikeToLearn: "Dart & Flutter"
+  wouldLikeToLearn: "Dart & Flutter"
 }
 ```
 ---
