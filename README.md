@@ -2,7 +2,7 @@
   Hi, I'm Toni Sanchez! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50">
 </h2>
 <p><em>
-  I'm a Frontend Developer. Working with ES6,React & Redux.
+  I'm a Full Stack developer. Working with NodeJS, MongoDB and React + Redux.
 </em></p>
 
 <p>
@@ -18,13 +18,12 @@
 
 ```javascript
 const toni = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS ],
   tools: {
     backend: [MongoDB, ExpressJs, NodeJS],
     frontend: [React, Redux, Styled-Components, Bootstrap, SASS]
     },
-  learning: "Improving my skills as a fullstack. Especially on the backend.",
+  learning: "Improving my skills as a fullstack. Specially on the backend.",
   wouldLikeToLearn: "Dart & Flutter"
 }
 ```
